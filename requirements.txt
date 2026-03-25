@@ -1,0 +1,19 @@
+# Basic Data Science Libraries
+
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+
+# Code Format
+
+black
+flake8
+
+# Documentation 
+sphinx
+poetry
+myst_parser
+sphinx-autoapi
+sphinx-rtd-theme
